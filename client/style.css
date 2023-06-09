@@ -8,13 +8,13 @@
 }
 
 body {
-  background: #343541;
+  background: #509525;
 }
 
 #app {
   width: 100vw;
   height: 100vh;
-  background: #343541;
+  background: #dbca15;
 
   display: flex;
   flex-direction: column;
@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #40414F;
+  background: #b03a0b;
 }
 
 .chat {
